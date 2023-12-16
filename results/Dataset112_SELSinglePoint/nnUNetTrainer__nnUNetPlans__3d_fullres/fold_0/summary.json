@@ -1,0 +1,1018 @@
+{
+    "foreground_mean": {
+        "Dice": 0.16650442460199724,
+        "FN": 1464.8888888888887,
+        "FP": 1397.9135802469136,
+        "IoU": 0.11779229825946708,
+        "TN": 13626795.60493827,
+        "TP": 1829.5925925925924,
+        "n_pred": 3227.5061728395062,
+        "n_ref": 3294.4814814814818
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.4891230298103046,
+            "FN": 1902.037037037037,
+            "FP": 4167.518518518518,
+            "IoU": 0.3480432002602683,
+            "TN": 13619932.925925925,
+            "TP": 5485.518518518518,
+            "n_pred": 9653.037037037036,
+            "n_ref": 7387.555555555556
+        },
+        "2": {
+            "Dice": 0.01039024399568712,
+            "FN": 1285.6666666666667,
+            "FP": 26.22222222222222,
+            "IoU": 0.005333694518132952,
+            "TN": 13630172.851851853,
+            "TP": 3.259259259259259,
+            "n_pred": 29.48148148148148,
+            "n_ref": 1288.9259259259259
+        },
+        "3": {
+            "Dice": 0.0,
+            "FN": 1206.962962962963,
+            "FP": 0.0,
+            "IoU": 0.0,
+            "TN": 13630281.037037037,
+            "TP": 0.0,
+            "n_pred": 0.0,
+            "n_ref": 1206.962962962963
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7533895408453913,
+                    "FN": 2507,
+                    "FP": 6151,
+                    "IoU": 0.6043504089932824,
+                    "TN": 13609605,
+                    "TP": 13225,
+                    "n_pred": 19376,
+                    "n_ref": 15732
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 980,
+                    "FP": 2,
+                    "IoU": 0.0,
+                    "TN": 13630506,
+                    "TP": 0,
+                    "n_pred": 2,
+                    "n_ref": 980
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 33,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13631455,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 33
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_013.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_013.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7502193807195687,
+                    "FN": 4500,
+                    "FP": 11440,
+                    "IoU": 0.6002808566126686,
+                    "TN": 13591610,
+                    "TP": 23938,
+                    "n_pred": 35378,
+                    "n_ref": 28438
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 5152,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13626336,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 5152
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 167,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13631321,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 167
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_024.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_024.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6621090411895403,
+                    "FN": 5411,
+                    "FP": 6451,
+                    "IoU": 0.4948901379662749,
+                    "TN": 13608004,
+                    "TP": 11622,
+                    "n_pred": 18073,
+                    "n_ref": 17033
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 26,
+                    "FP": 1,
+                    "IoU": 0.0,
+                    "TN": 13631461,
+                    "TP": 0,
+                    "n_pred": 1,
+                    "n_ref": 26
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_027.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_027.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6008866659088326,
+                    "FN": 2694,
+                    "FP": 4328,
+                    "IoU": 0.429476763080923,
+                    "TN": 13619180,
+                    "TP": 5286,
+                    "n_pred": 9614,
+                    "n_ref": 7980
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 37,
+                    "FP": 16,
+                    "IoU": 0.0,
+                    "TN": 13631435,
+                    "TP": 0,
+                    "n_pred": 16,
+                    "n_ref": 37
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 121,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13631367,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 121
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_030.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_030.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5370741482965932,
+                    "FN": 320,
+                    "FP": 1990,
+                    "IoU": 0.36712328767123287,
+                    "TN": 13627838,
+                    "TP": 1340,
+                    "n_pred": 3330,
+                    "n_ref": 1660
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 575,
+                    "FP": 20,
+                    "IoU": 0.0,
+                    "TN": 13630893,
+                    "TP": 0,
+                    "n_pred": 20,
+                    "n_ref": 575
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 620,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630868,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 620
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_035.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_035.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.41058098020123335,
+                    "FN": 883,
+                    "FP": 2749,
+                    "IoU": 0.2583214212783337,
+                    "TN": 13626591,
+                    "TP": 1265,
+                    "n_pred": 4014,
+                    "n_ref": 2148
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 611,
+                    "FP": 30,
+                    "IoU": 0.0,
+                    "TN": 13630847,
+                    "TP": 0,
+                    "n_pred": 30,
+                    "n_ref": 611
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 852,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630636,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 852
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_036.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_036.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.3858520900321543,
+                    "FN": 681,
+                    "FP": 2184,
+                    "IoU": 0.23904382470119523,
+                    "TN": 13627723,
+                    "TP": 900,
+                    "n_pred": 3084,
+                    "n_ref": 1581
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 217,
+                    "FP": 32,
+                    "IoU": 0.0,
+                    "TN": 13631239,
+                    "TP": 0,
+                    "n_pred": 32,
+                    "n_ref": 217
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 1032,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630456,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1032
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_044.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_044.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.30091413157500374,
+                    "FN": 1406,
+                    "FP": 17254,
+                    "IoU": 0.17710354559887106,
+                    "TN": 13608812,
+                    "TP": 4016,
+                    "n_pred": 21270,
+                    "n_ref": 5422
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 3617,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13627871,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3617
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 13467,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13618021,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 13467
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_051.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_051.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5800308800823469,
+                    "FN": 1035,
+                    "FP": 597,
+                    "IoU": 0.40848133381660023,
+                    "TN": 13628729,
+                    "TP": 1127,
+                    "n_pred": 1724,
+                    "n_ref": 2162
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 224,
+                    "FP": 21,
+                    "IoU": 0.0,
+                    "TN": 13631243,
+                    "TP": 0,
+                    "n_pred": 21,
+                    "n_ref": 224
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_054.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_054.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.7246856386499008,
+                    "FN": 275,
+                    "FP": 557,
+                    "IoU": 0.5682407887908666,
+                    "TN": 13629561,
+                    "TP": 1095,
+                    "n_pred": 1652,
+                    "n_ref": 1370
+                },
+                "2": {
+                    "Dice": 0.01606425702811245,
+                    "FN": 237,
+                    "FP": 8,
+                    "IoU": 0.008097165991902834,
+                    "TN": 13631241,
+                    "TP": 2,
+                    "n_pred": 10,
+                    "n_ref": 239
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_060.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_060.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.32608695652173914,
+                    "FN": 141,
+                    "FP": 293,
+                    "IoU": 0.19480519480519481,
+                    "TN": 13630949,
+                    "TP": 105,
+                    "n_pred": 398,
+                    "n_ref": 246
+                },
+                "2": {
+                    "Dice": 0.060790273556231005,
+                    "FN": 229,
+                    "FP": 80,
+                    "IoU": 0.03134796238244514,
+                    "TN": 13631169,
+                    "TP": 10,
+                    "n_pred": 90,
+                    "n_ref": 239
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_061.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_061.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6657315191471455,
+                    "FN": 1068,
+                    "FP": 1315,
+                    "IoU": 0.4989486963835156,
+                    "TN": 13626732,
+                    "TP": 2373,
+                    "n_pred": 3688,
+                    "n_ref": 3441
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 704,
+                    "FP": 20,
+                    "IoU": 0.0,
+                    "TN": 13630764,
+                    "TP": 0,
+                    "n_pred": 20,
+                    "n_ref": 704
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_063.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_063.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.12230078348939423,
+                    "FN": 1034,
+                    "FP": 8152,
+                    "IoU": 0.06513331976389172,
+                    "TN": 13621662,
+                    "TP": 640,
+                    "n_pred": 8792,
+                    "n_ref": 1674
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 7649,
+                    "FP": 24,
+                    "IoU": 0.0,
+                    "TN": 13623815,
+                    "TP": 0,
+                    "n_pred": 24,
+                    "n_ref": 7649
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 1594,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13629894,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1594
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_066.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_066.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5396678966789668,
+                    "FN": 575,
+                    "FP": 423,
+                    "IoU": 0.36955148452305747,
+                    "TN": 13629905,
+                    "TP": 585,
+                    "n_pred": 1008,
+                    "n_ref": 1160
+                },
+                "2": {
+                    "Dice": 0.01762114537444934,
+                    "FN": 214,
+                    "FP": 9,
+                    "IoU": 0.008888888888888889,
+                    "TN": 13631263,
+                    "TP": 2,
+                    "n_pred": 11,
+                    "n_ref": 216
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_077.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_077.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8359258932084835,
+                    "FN": 10910,
+                    "FP": 9521,
+                    "IoU": 0.7181036742690785,
+                    "TN": 13559011,
+                    "TP": 52046,
+                    "n_pred": 61567,
+                    "n_ref": 62956
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 1285,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630203,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 1285
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 726,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630762,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 726
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_080.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_080.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.4860383944153578,
+                    "FN": 990,
+                    "FP": 2544,
+                    "IoU": 0.32103746397694527,
+                    "TN": 13626283,
+                    "TP": 1671,
+                    "n_pred": 4215,
+                    "n_ref": 2661
+                },
+                "2": {
+                    "Dice": 0.06621004566210045,
+                    "FN": 731,
+                    "FP": 87,
+                    "IoU": 0.03423848878394333,
+                    "TN": 13630641,
+                    "TP": 29,
+                    "n_pred": 116,
+                    "n_ref": 760
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 270,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13631218,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 270
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_081.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_081.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.22725547260533974,
+                    "FN": 412,
+                    "FP": 5695,
+                    "IoU": 0.1281941470378301,
+                    "TN": 13624483,
+                    "TP": 898,
+                    "n_pred": 6593,
+                    "n_ref": 1310
+                },
+                "2": {
+                    "Dice": 0.06629834254143646,
+                    "FN": 493,
+                    "FP": 14,
+                    "IoU": 0.03428571428571429,
+                    "TN": 13630963,
+                    "TP": 18,
+                    "n_pred": 32,
+                    "n_ref": 511
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 3883,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13627605,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3883
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_082.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_082.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.2357283464566929,
+                    "FN": 1761,
+                    "FP": 1345,
+                    "IoU": 0.13361227336122733,
+                    "TN": 13627903,
+                    "TP": 479,
+                    "n_pred": 1824,
+                    "n_ref": 2240
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 295,
+                    "FP": 16,
+                    "IoU": 0.0,
+                    "TN": 13631177,
+                    "TP": 0,
+                    "n_pred": 16,
+                    "n_ref": 295
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 513,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630975,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 513
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_084.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_084.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.30506742950551696,
+                    "FN": 3135,
+                    "FP": 10469,
+                    "IoU": 0.17998794454490658,
+                    "TN": 13614898,
+                    "TP": 2986,
+                    "n_pred": 13455,
+                    "n_ref": 6121
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 4034,
+                    "FP": 23,
+                    "IoU": 0.0,
+                    "TN": 13627431,
+                    "TP": 0,
+                    "n_pred": 23,
+                    "n_ref": 4034
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 3430,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13628058,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3430
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_091.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_091.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8022385631548122,
+                    "FN": 624,
+                    "FP": 2415,
+                    "IoU": 0.6697815929588178,
+                    "TN": 13622285,
+                    "TP": 6164,
+                    "n_pred": 8579,
+                    "n_ref": 6788
+                },
+                "2": {
+                    "Dice": 0.011299435028248588,
+                    "FN": 147,
+                    "FP": 28,
+                    "IoU": 0.005681818181818182,
+                    "TN": 13631312,
+                    "TP": 1,
+                    "n_pred": 29,
+                    "n_ref": 148
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_093.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_093.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.44651162790697674,
+                    "FN": 8,
+                    "FP": 111,
+                    "IoU": 0.2874251497005988,
+                    "TN": 13631321,
+                    "TP": 48,
+                    "n_pred": 159,
+                    "n_ref": 56
+                },
+                "2": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_094.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_094.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.5292259083728278,
+                    "FN": 693,
+                    "FP": 1095,
+                    "IoU": 0.359828141783029,
+                    "TN": 13628695,
+                    "TP": 1005,
+                    "n_pred": 2100,
+                    "n_ref": 1698
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 266,
+                    "FP": 41,
+                    "IoU": 0.0,
+                    "TN": 13631181,
+                    "TP": 0,
+                    "n_pred": 41,
+                    "n_ref": 266
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 333,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13631155,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 333
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_100.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_100.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6815028504704993,
+                    "FN": 5169,
+                    "FP": 4105,
+                    "IoU": 0.5168785163575745,
+                    "TN": 13612292,
+                    "TP": 9922,
+                    "n_pred": 14027,
+                    "n_ref": 15091
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 2005,
+                    "FP": 3,
+                    "IoU": 0.0,
+                    "TN": 13629480,
+                    "TP": 0,
+                    "n_pred": 3,
+                    "n_ref": 2005
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 35,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13631453,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 35
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_107.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_107.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.48235906782970966,
+                    "FN": 3477,
+                    "FP": 4475,
+                    "IoU": 0.3178347773869778,
+                    "TN": 13619831,
+                    "TP": 3705,
+                    "n_pred": 8180,
+                    "n_ref": 7182
+                },
+                "2": {
+                    "Dice": 0.0014903129657228018,
+                    "FN": 1300,
+                    "FP": 40,
+                    "IoU": 0.0007457121551081282,
+                    "TN": 13630147,
+                    "TP": 1,
+                    "n_pred": 41,
+                    "n_ref": 1301
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 3873,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13627615,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 3873
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_116.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_116.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.43216783216783217,
+                    "FN": 1239,
+                    "FP": 1197,
+                    "IoU": 0.27564674397859057,
+                    "TN": 13628125,
+                    "TP": 927,
+                    "n_pred": 2124,
+                    "n_ref": 2166
+                },
+                "2": {
+                    "Dice": 0.028290282902829027,
+                    "FN": 1552,
+                    "FP": 28,
+                    "IoU": 0.014348097317529632,
+                    "TN": 13629885,
+                    "TP": 23,
+                    "n_pred": 51,
+                    "n_ref": 1575
+                },
+                "3": {
+                    "Dice": NaN,
+                    "FN": 0,
+                    "FP": 0,
+                    "IoU": NaN,
+                    "TN": 13631488,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 0
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_122.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_122.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.23763802208353338,
+                    "FN": 281,
+                    "FP": 2895,
+                    "IoU": 0.1348406428766004,
+                    "TN": 13627817,
+                    "TP": 495,
+                    "n_pred": 3390,
+                    "n_ref": 776
+                },
+                "2": {
+                    "Dice": 0.0,
+                    "FN": 291,
+                    "FP": 90,
+                    "IoU": 0.0,
+                    "TN": 13631107,
+                    "TP": 0,
+                    "n_pred": 90,
+                    "n_ref": 291
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 932,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630556,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 932
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_124.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_124.nrrd"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.14513274336283186,
+                    "FN": 126,
+                    "FP": 2772,
+                    "IoU": 0.07824427480916031,
+                    "TN": 13628344,
+                    "TP": 246,
+                    "n_pred": 3018,
+                    "n_ref": 372
+                },
+                "2": {
+                    "Dice": 0.002082248828735034,
+                    "FN": 1842,
+                    "FP": 75,
+                    "IoU": 0.0010422094841063053,
+                    "TN": 13629569,
+                    "TP": 2,
+                    "n_pred": 77,
+                    "n_ref": 1844
+                },
+                "3": {
+                    "Dice": 0.0,
+                    "FN": 707,
+                    "FP": 0,
+                    "IoU": 0.0,
+                    "TN": 13630781,
+                    "TP": 0,
+                    "n_pred": 0,
+                    "n_ref": 707
+                }
+            },
+            "prediction_file": "/content/drive/MyDrive/TFM/results/Dataset112_SELSinglePoint/nnUNetTrainer__nnUNetPlans__3d_fullres/fold_0/validation/rMSVIS_148.nrrd",
+            "reference_file": "/content/drive/MyDrive/TFM/preprocessed/Dataset112_SELSinglePoint/gt_segmentations/rMSVIS_148.nrrd"
+        }
+    ]
+}
