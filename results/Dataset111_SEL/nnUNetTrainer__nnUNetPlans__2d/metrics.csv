@@ -1,0 +1,5 @@
+,Lesion Type,Recall,Precision,F1-score,Dice
+0,Possible SEL,0.5,0.681,0.577,0.271
+1,SEL,0.119,0.136,0.127,0.092
+2,noSEL,0.093,0.113,0.102,0.085
+3,All lesions,0.401,0.525,0.455,0.149
